@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":3,"title":"","author":"宋媛媛A","fileName":"Zhangjiarong_Curriculum_Vitae.pdf","bounds":[[909,1286],[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
